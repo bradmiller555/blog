@@ -74,7 +74,7 @@ body{
   letter-spacing: 0.1em;
 }
 
-.post-containe     r:nth-child(even){
+.post-container:nth-child(even){
   background-color: #f2f2f2;
 }
 
